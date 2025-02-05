@@ -1,6 +1,7 @@
 ### Phidata Financial Agent
 
 Welcome to the Phidata Financial Agent project! This project aims to provide a comprehensive financial analysis and reporting tool to help users make informed financial decisions.
+Built using phidata, groq and llama 3.2 model
 
 #### Features
 
@@ -33,16 +34,8 @@ To start using the Phidata Financial Agent, run the following command:
 python main.py
 ```
 
-#### Contributing
-
-We welcome contributions to the Phidata Financial Agent project! Please read our [contributing guidelines](CONTRIBUTING.md) for more information.
-
 #### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-#### Contact
-
-If you have any questions or need further assistance, please contact us at support@phidata.com.
 
 Happy analyzing!
